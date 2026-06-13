@@ -1,0 +1,47 @@
+{
+  "efficiency_kpi": {
+    "average": 82.5,
+    "last_day": 83.9
+  },
+  "user_composition": {
+    "avg_pct_registered": 82.5,
+    "avg_pct_casual": 17.5,
+    "total_registered": 2672729,
+    "total_casual": 619773
+  },
+  "weather_impact": {
+    "registered_drop_storm": 56.3,
+    "casual_drop_storm": 93.4
+  },
+  "peak_hours": {
+    "peak_hour": 17,
+    "peak_value": 462.0,
+    "off_peak_hour": 4,
+    "off_peak_value": 6.0
+  },
+  "model_performance": {
+    "leaky_model": {
+      "R2": 0.9999,
+      "RMSE": 1.21,
+      "MAE": 0.52,
+      "MAPE": 0.27
+    },
+    "realistic_model": {
+      "R2": 0.9456,
+      "RMSE": 41.01,
+      "MAE": 25.05,
+      "MAPE": 30.65
+    }
+  },
+  "pca_variance": {
+    "PC1": 49.9,
+    "PC2": 32.2,
+    "PC3": 17.6,
+    "cumulative_3": 99.7
+  },
+  "dataset_info": {
+    "total_records": 17451,
+    "total_days": 730,
+    "date_range": "2011-01-02 to 2012-12-31"
+  }
+}
