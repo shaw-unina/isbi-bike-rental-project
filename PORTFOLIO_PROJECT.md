@@ -80,8 +80,9 @@ streamlit run Streamlit_Dashboard/App_progetto.py
 
 ## Links
 - **GitHub:** [Repository](https://github.com/shaw-unina/isbi-bike-rental-project)
-- **Report:** [PDF Report](Streamlit_Dashboard/docs/bike_rental_report.pdf)
-- **BPM Report:** [Bonita Report](Bonita_Report/bonita_bpm_report.pdf)
-- **Presentation:** [Slide Deck](Streamlit_Dashboard/docs/bike_rental_presentation.pdf)
+- **PDF Report:** [Bike Rental Analysis Report](https://github.com/shaw-unina/isbi-bike-rental-project/blob/main/Streamlit_Dashboard/docs/bike_rental_report.pdf?raw=true)
+- **BPM Report:** [Bonita BPM Report](https://github.com/shaw-unina/isbi-bike-rental-project/blob/main/Bonita_Report/bonita_bpm_report.pdf?raw=true)
+- **Slide Deck:** [Presentation](https://github.com/shaw-unina/isbi-bike-rental-project/blob/main/Streamlit_Dashboard/docs/bike_rental_presentation.pdf?raw=true)
+- **BPM Presentation:** [Bonita Presentation](https://github.com/shaw-unina/isbi-bike-rental-project/blob/main/Bonita_Report/bonita_bpm_presentation.pdf?raw=true)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
